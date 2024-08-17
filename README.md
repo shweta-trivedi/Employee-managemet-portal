@@ -15,7 +15,7 @@ cd Employee-management-portal
 composer install
 
 # Database
-Ajust the database information, then:
+Adjust the database information, then:
 
 php artisan migrate
 
